@@ -1,3 +1,7 @@
 new feature branch
 
+<<<<<<< HEAD
 branching
+=======
+new changes hello branch b2
+>>>>>>> 7ed54a8 (change to branch.txt)
